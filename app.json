@@ -1,0 +1,12 @@
+{
+  "name": "samakalinsahitya",
+  "displayName": "samakalinsahitya",
+  "expo": {
+    "name": "samakalinsahitya",
+    "slug": "samakalinsahitya",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
